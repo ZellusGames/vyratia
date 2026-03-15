@@ -1,0 +1,1 @@
+var json_Equator_32 = {"type":"FeatureCollection","name":"Equator_32","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"MultiLineString","coordinates":[[[-31.368577445889674,0.626499590588189],[33.651319422312497,1.066659613526715]]]}}]}
